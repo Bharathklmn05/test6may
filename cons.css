@@ -1,0 +1,108 @@
+*{
+ margin: 0px;
+ padding: 0px;
+ background-color: rgb(26, 24, 24);   
+}
+nav{
+   
+}
+.header1{
+    color: #bebaba;
+    font-size: 3em;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+.header2{
+  
+    font-size: 25px;
+    
+    height: 4vh;
+    
+}
+.menus{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(3, 3, 3);
+    padding-top: 2px;
+border: 1px solid silver;
+     
+    
+    
+}
+span{
+   
+   padding-left: 100px;
+    background-color:silver;
+    padding-right: 87px;
+    
+    text-align: center;  
+}
+.home{
+    margin-left: 5px;
+    margin-top: 8px;
+}
+.content{
+    background-color: silver;
+    margin-top: 10px;
+    padding-left: 30px;
+    width: 65vw;
+    height: 570px;
+    line-height: 7px;
+    padding-top: 10px;
+    padding-right: 25px;
+    
+    float: left;
+
+}
+h2{
+    background-color: silver;
+    text-align: center;
+    
+}
+#p1{
+    background-color: silver;
+margin-top: 10px;
+
+}
+.side{
+    background-color: white;
+    height: 580px;
+    width: 408px;
+    float: right;
+    margin-top: 10px;
+    line-height: 20px;
+}
+.footer{
+    color: black;
+    padding-left: 10px;
+    
+    background-color: silver;
+    margin-top: 3px;
+    position: fixed;
+    bottom: 0px;
+    width: 100vw;
+    height: 50px;
+}
+.sidehead{
+    margin-top: 10px;
+    background-color: white;
+}
+h1{
+    background-color: aliceblue;
+    margin-top: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+p{
+    background-color: white;
+line-height: 30px;
+padding-top: 50px;
+padding: 18px;
+}
+a{
+    background-color: silver;
+}
+
+
